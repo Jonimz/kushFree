@@ -1,0 +1,12 @@
+/* Header */
+#chat-header {
+  background: #4CAF50;   /* same green as send button */
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
+
+#chat-header h1 {
+  margin: 0;
+  font-size: 1.5rem;   /* make the text big */
+}
